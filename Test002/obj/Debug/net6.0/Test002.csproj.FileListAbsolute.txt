@@ -1,0 +1,15 @@
+/Users/kat/Desktop/Stady2/HomeWork004/Test002/bin/Debug/net6.0/Test002
+/Users/kat/Desktop/Stady2/HomeWork004/Test002/bin/Debug/net6.0/Test002.deps.json
+/Users/kat/Desktop/Stady2/HomeWork004/Test002/bin/Debug/net6.0/Test002.runtimeconfig.json
+/Users/kat/Desktop/Stady2/HomeWork004/Test002/bin/Debug/net6.0/Test002.dll
+/Users/kat/Desktop/Stady2/HomeWork004/Test002/bin/Debug/net6.0/Test002.pdb
+/Users/kat/Desktop/Stady2/HomeWork004/Test002/obj/Debug/net6.0/Test002.csproj.AssemblyReference.cache
+/Users/kat/Desktop/Stady2/HomeWork004/Test002/obj/Debug/net6.0/Test002.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kat/Desktop/Stady2/HomeWork004/Test002/obj/Debug/net6.0/Test002.AssemblyInfoInputs.cache
+/Users/kat/Desktop/Stady2/HomeWork004/Test002/obj/Debug/net6.0/Test002.AssemblyInfo.cs
+/Users/kat/Desktop/Stady2/HomeWork004/Test002/obj/Debug/net6.0/Test002.csproj.CoreCompileInputs.cache
+/Users/kat/Desktop/Stady2/HomeWork004/Test002/obj/Debug/net6.0/Test002.dll
+/Users/kat/Desktop/Stady2/HomeWork004/Test002/obj/Debug/net6.0/refint/Test002.dll
+/Users/kat/Desktop/Stady2/HomeWork004/Test002/obj/Debug/net6.0/Test002.pdb
+/Users/kat/Desktop/Stady2/HomeWork004/Test002/obj/Debug/net6.0/Test002.genruntimeconfig.cache
+/Users/kat/Desktop/Stady2/HomeWork004/Test002/obj/Debug/net6.0/ref/Test002.dll
